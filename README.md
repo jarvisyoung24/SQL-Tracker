@@ -73,18 +73,6 @@ Optionally, use seeds.sql to pre-populate the database with sample data.
 
 Usage
 
-Start the application:
-----------------------
-
-node index.js
-
-Follow the prompts to interact with the database:
-
-View departments, roles, and employees.
-
-Add or update departments, roles, and employees.
-
-Perform additional actions such as deleting records or viewing the department budget.
 
 Database Schema
 ---------------
